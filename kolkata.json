@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kolkata, India",
+		"city":"Kolkata",
+		"state":"WB",
+		"state_name":"India",
+		"country":"IN",
+		"country_iso3166":"IN",
+		"zip":"00000",
+		"magic":"189",
+		"wmo":"42809",
+		"latitude":"22.54000092",
+		"longitude":"88.33000183",
+		"elevation":"10.1"
+		},
+		"observation_location": {
+		"full":"GREENWOOD, Kolkata, ",
+		"city":"GREENWOOD, Kolkata",
+		"state":"",
+		"country":"IN",
+		"country_iso3166":"IN",
+		"latitude":"22.511753",
+		"longitude":"88.307121",
+		"elevation":"78 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"IKOLKATA3",
+		"observation_time":"Last Updated on January 4, 11:13 AM IST",
+		"observation_time_rfc822":"Thu, 04 Jan 2018 11:13:19 +0530",
+		"observation_epoch":"1515044599",
+		"local_time_rfc822":"Thu, 04 Jan 2018 11:13:20 +0530",
+		"local_epoch":"1515044600",
+		"local_tz_short":"IST",
+		"local_tz_long":"Asia/Kolkata",
+		"local_tz_offset":"+0530",
+		"weather":"Haze",
+		"temperature_string":"67.3 F (19.6 C)",
+		"temp_f":67.3,
+		"temp_c":19.6,
+		"relative_humidity":"65%",
+		"wind_string":"From the NNW at 5.0 MPH",
+		"wind_dir":"NNW",
+		"wind_degrees":338,
+		"wind_mph":5.0,
+		"wind_gust_mph":0,
+		"wind_kph":8.0,
+		"wind_gust_kph":0,
+		"pressure_mb":"1016",
+		"pressure_in":"30.01",
+		"pressure_trend":"0",
+		"dewpoint_string":"55 F (13 C)",
+		"dewpoint_f":55,
+		"dewpoint_c":13,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"67.3 F (19.6 C)",
+		"feelslike_f":"67.3",
+		"feelslike_c":"19.6",
+		"visibility_mi":"1.2",
+		"visibility_km":"2.0",
+		"solarradiation":"--",
+		"UV":"-1","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"hazy",
+		"icon_url":"http://icons.wxug.com/i/c/k/hazy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/42809.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IKOLKATA3",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=22.511753,88.307121",
+		"nowcast":""
+	}
+}
